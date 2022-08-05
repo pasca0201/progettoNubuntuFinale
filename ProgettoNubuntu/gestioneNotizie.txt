@@ -1,0 +1,6 @@
+notizie:
+aggiuntaNotizia: ciao
+aggiuntaNotizia: cavolo
+rimossaNotizia: brutto
+rimossaNotizia: ciaorimossaNotizia: cavolo
+rimossaNotizia: cavolo

@@ -1,0 +1,16 @@
+default: https://www.ilsole24ore.com/rss/cultura.xml
+default: https://www.ilsole24ore.com/rss/finanza--business.xml
+default: https://www.ilsole24ore.com/rss/mondo.xml
+default: https://www.ilsole24ore.com/rss/economia--turismo.xml
+aggiunta: https://www.ilsole24ore.com/rss/mondo--usa.xml
+rimossa: https://www.ilsole24ore.com/rss/mondo--medio-oriente.xml
+aggiunta: https://www.ilsole24ore.com/rss/economia--consumi.xml
+rimossa: https://www.ilsole24ore.com/rss/economia--consumi.xmlrimossa: 2
+rimossa: 2
+rimossa: 2
+rimossa: 2
+rimossa: https://www.ilsole24ore.com/rss/mondo.xml
+rimossa: https://www.ilsole24ore.com/rss/economia--consumi.xml
+rimossa: https://www.ilsole24ore.com/rss/economia--turismo.xml
+rimossa: null
+rimossa: https://www.ilsole24ore.com/rss/finanza--business.xml
